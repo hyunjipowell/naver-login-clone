@@ -140,3 +140,7 @@ select {
   box-shadow: none;
   cursor: pointer;
 }
+
+span {
+  font-weight: normal;
+}
